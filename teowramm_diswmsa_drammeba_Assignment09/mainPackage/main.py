@@ -1,5 +1,7 @@
 # main.py
 
-from CatClassPackage.CatClass import *
+
+from CarClassPackage.CarClass import *
 
 if __name__ == "__main__":
+    
